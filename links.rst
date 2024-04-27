@@ -4,7 +4,7 @@ Link: acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 M+ LaLiga 1080 (opcion 2)
 -------------------------
-Link: acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+Link: acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
 DAZN LaLiga 1080 (opcion 1)
 ---------------------------
